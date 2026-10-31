@@ -1,0 +1,11 @@
+Qwen2.5-0.5B-Abliterated.zip (954 MB, 11 parts):
+82ca983efee4c3be631ab40a4566dd2b4659b742813d7bfe1481749cf7d017c1
+
+Delivered bf16 model.safetensors (943 MB):
+a6ce36dd0acb45579f773721aec7399818b78ecfa99c3f52c9d6f16eb5014172
+
+Original Qwen2.5-0.5B-Instruct model.safetensors (943 MB, bf16):
+fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe
+
+Float32 abliterated checkpoint model.safetensors (1,976,163,472 bytes):
+e5d038a9830e5d0e79f3d86f67cbda7ace9a68aa33fc7ae16b01e4b0c6d9a0cc
