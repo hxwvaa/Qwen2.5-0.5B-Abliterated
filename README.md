@@ -5,9 +5,9 @@ AI security and red-teaming workshop. Private repository.
 
 ## What is in this repo
 
-- `Qwen2.5-0.5B-Abliterated.zip.part-00` … `.part-10` — the complete
+- `Qwen2.5-0.5B-Abliterated.zip.part-00` … `.part-38` — the complete
   model checkpoint, split because GitHub rejects single files over
-  100 MB. Each part is 95 MB except the last (3.3 MB).
+  100 MB. Each part is 25 MB except the last (3.3 MB).
 - `REASSEMBLE.sh` — joins the parts and unzips the checkpoint.
 - `CHECKSUMS.txt` — SHA-256 for the zip and for the model weights.
 - This README — the full process, so the result can be understood
